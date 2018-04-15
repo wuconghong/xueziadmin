@@ -1,2 +1,0 @@
-# xueziadmin
-admin
